@@ -1,12 +1,11 @@
 {
-  "name": "electron-react-boilerplate",
-  "version": "4.6.0",
-  "description": "A foundation for scalable desktop apps",
-  "license": "MIT",
+  "name": "REPLACE_THIS",
+  "version": "1.0.0",
+  "description": "Electron App",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "name": "Adam Zvěřina",
+    "email": "adam.zverina@gmail.com",
+    "url": "https://adamz.cz"
   },
   "main": "./dist/main/main.js",
   "scripts": {
